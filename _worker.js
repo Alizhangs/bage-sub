@@ -12,6 +12,7 @@ let SUBUpdateTime = 6;
 
 //节点链接 + 订阅链接
 let MainData = `
+https://iphuoqu.avav.eu.org/liangxin.txt
 `;
 
 let urls = [];
