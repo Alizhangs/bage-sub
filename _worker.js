@@ -12,7 +12,6 @@ let SUBUpdateTime = 6;
 
 //节点链接 + 订阅链接
 let MainData = `
-https://ip.iphuoqu.lol/liangxin.txt
 `;
 
 let urls = [];
